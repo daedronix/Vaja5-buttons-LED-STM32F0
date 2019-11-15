@@ -10,4 +10,4 @@
 <p>   Zelena LED: PC8 </p>
 <p> Modra LED: PC9 </p>
 <h4> Komentar </h4>
-<p> 
+<p> Delovanje LEDic je odvisno od katere tipke pritisnemo. "for" uporabimo zato, da skrajšamo zanko. Če želimo preveriti ali je gumb pritisnjen uporabimo "if". </p>
